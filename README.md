@@ -1,11 +1,11 @@
 # 🧙 Howdy, I'm Matt! ( •̀ ω •́ )y
 ![](https://komarev.com/ghpvc/?username=Thinkr3&color=blueviolet)
-- 🏗️ I’m currently working on taggy! 
+- 🏗️ I’m currently working on research! 
 - 💯 Awards: Winner at ThetaHacks and Spotify x SET.hacks() with [@Carnales](https://github.com/Carnales)! 
 - 💻 Favorite Languages: Python, C++, C, C#, Java, x86 ASM
-- 🧃 Fun fact: I'm just a silly little guy doing silly little things :3
+- 🧃 Fun fact: I'm just doing silly things :3
 
-I am a Software Engineer with an interest in Aritificial Intelligence 🎲. My programming experience comes from training models in Pytorch and Tensorflow and creating backend systems in C++. I am mainly applying my programming knowledge by participating in Hackathons. I also have many other interests such as research 🧪, gaming 🎮, and art 🎨.
+I am an ML Engineer & NLP Researcher. My programming experience comes from training recommender systems, lattice graph neural networks, and creating backend systems in C++. I also have many other interests such as baking, gaming, and art!
 
 
 <!--
